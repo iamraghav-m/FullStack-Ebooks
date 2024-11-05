@@ -8,3 +8,4 @@
 6. Beginning JavaScript with DOM Scripting and Ajax - Chrstan Hlmann - 2006
 7. Building Microservices with JavaScript -  Diogo Resende
 8. Pro JavaScript Design Patterns - Dustin Diaz - 2007
+9. Pro JavaScript RIA Techniques - Dennis Odell - 2009
