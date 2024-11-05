@@ -6,3 +6,4 @@
 4. Add Eloquent Javascript - Marijn Haverbeke
 5. Beginning Functional JavaScript - Auto Aravinth - 2018
 6. Beginning JavaScript with DOM Scripting and Ajax - Chrstan Hlmann - 2006
+7. Building Microservices with JavaScript -  Diogo Resende
